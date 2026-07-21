@@ -2,7 +2,7 @@
 
 This folder contains my learning notes and key concepts from **Days 01–12** of the **- 100 Days of Machine Learning** series.
 
-## Topics Covered
+### Topics Covered
 
 ### Day 01 - What is Machine Learning?
 - Introduction to Machine Learning
@@ -44,7 +44,7 @@ This folder contains my learning notes and key concepts from **Days 01–12** of
 - Model updates
 - Applications
 
----
+
 
 ### Day 06 - Instance-Based vs Model-Based Learning
 - Instance-Based Learning
